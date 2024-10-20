@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "singhalrk.jpg" # Filename of your avatar image
+  avatar           : "singhalrk.png" # Filename of your avatar image
   name             : "Raghav Singhal"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science at NYU"
