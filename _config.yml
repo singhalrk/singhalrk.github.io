@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Raghav Singhal"
 title_separator          : "-"
 name                     : &name "Raghav Singhal"
-description              : &description "PhD Student in Computer Science at NYU"
+description              : &description "PhD Student in Computer Science at NYU, working on diffusion models, generative modeling, and applications of ML in healthcare."
 url                      : https://singhalrk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "singhalrk/singhalrk.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "singhalrk.png" # Filename of your avatar image
   name             : "Raghav Singhal"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Computer Science at NYU"
+  bio              : "PhD Student in Computer Science at NYU, working on diffusion models, generative modeling, and applications of ML in healthcare."
   location         : "New York City, USA"
   employer         : "New York University"
   uri              : # URL
