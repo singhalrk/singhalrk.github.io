@@ -9,7 +9,7 @@ redirect_from:
 
 You can find a PDF version of my CV [here](/files/singhal_raghav.pdf).
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -63,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
