@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can find a PDF version of my CV [here](/files/singhal_raghav.pdf).
+
 {% include base_path %}
 
 Education
