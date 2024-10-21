@@ -12,4 +12,6 @@ I am a Ph.D. student in computer science at [NYU Courtant Institute of Mathemati
 I did a BA/MS in Mathematics at Courant as well, where I worked on stochastic processes and random graph theory with [Lai-Sang Young](https://math.nyu.edu/people/profiles/YOUNG_Lai-Sang.html) and [Yuri Bakhtin](https://cims.nyu.edu/~bakhtin/). 
 
 
+$x^2 + y^2 = z^2$
+
 You can find my CV [here](/files/singhal_raghav.pdf).
