@@ -10,8 +10,8 @@ redirect_from:
 I was a teaching assistant in the following class:
 
 1. Fall 2022: _Machine Learning_ (CSCI-GA.2565-00)
-2. Spring 2021: _Machine Learning_ (CSCI-GA.2565-00)
-3. Fall 2021: _Machine Learning for Healthcare_ (CSCI-GA.3033-021/)
+2. Fall 2021: _Machine Learning for Healthcare_ (CSCI-GA.3033-021)
+3. Spring 2021: _Machine Learning_ (CSCI-GA.2565-00)
 
 I was a guest lecturer in the following class:
 1. Yann LeCun's _Deep Learning_ course at NYU, Fall 2022
