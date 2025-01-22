@@ -12,3 +12,6 @@ I am a Ph.D. student in computer science at [NYU Courant Institute of Mathematic
 I did a BA/MS in Mathematics at Courant as well, where I worked on stochastic processes and random graph theory with [Lai-Sang Young](https://math.nyu.edu/people/profiles/YOUNG_Lai-Sang.html) and [Yuri Bakhtin](https://cims.nyu.edu/~bakhtin/). 
 
 You can find my CV [here](/files/singhal_raghav.pdf).
+
+Check out my recent work, where we show how inference-time scaling and steering diffusion models can improve performance. Detailed blog post coming soon!
+[A General Framework for Inference-time Scaling and Steering of Diffusion Models](https://arxiv.org/abs/2501.06848)
