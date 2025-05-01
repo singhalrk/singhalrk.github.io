@@ -13,5 +13,5 @@ I did a BA/MS in Mathematics at Courant as well, where I worked on stochastic pr
 
 You can find my CV [here](/files/singhal_raghav.pdf).
 
-Check out my recent work, where we show how inference-time scaling and steering diffusion models can improve performance more than fine-tuning and even gradient-based guidance. Detailed blog post coming soon! $p_\theta(\mathbf{x})$
+Check out my recent work, where we show how inference-time scaling and steering diffusion models can improve performance more than fine-tuning and even gradient-based guidance. Detailed blog post coming soon! $$p_\theta(\mathbf{x})$$
 [A General Framework for Inference-time Scaling and Steering of Diffusion Models](https://arxiv.org/abs/2501.06848)
