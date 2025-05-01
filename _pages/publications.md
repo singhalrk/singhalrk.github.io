@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
   - /publications
 ---
-Raghav Singhal, Zachary Horvitz, Ryan Teehan, Mengye Ren, Zhou Yu, Kathleen McKeown, Rajesh Ranganath. [A General Framework for Inference-time Scaling and Steering of Diffusion Models](https://arxiv.org/abs/2501.06848) ICML 2025
+Raghav Singhal, Zachary Horvitz, Ryan Teehan, Mengye Ren, Zhou Yu, Kathleen McKeown, Rajesh Ranganath. [A General Framework for Inference-time Scaling and Steering of Diffusion Models](https://arxiv.org/abs/2501.06848). ICML 2025
 
 Raghav Singhal, Mark Goldstein, Rajesh Ranganath. [What’s the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998). ICML 2024
 
